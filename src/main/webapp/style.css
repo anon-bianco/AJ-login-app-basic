@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body{
+	background: linear-gradient(to bottom right, #66ffcc 0%, #ffff66 75%);
+	text-align:center;
+	margin:210px auto 200px auto;
+}
+
+.sPhoto{
+	width:15%;
+}
